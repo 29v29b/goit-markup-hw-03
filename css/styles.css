@@ -52,13 +52,11 @@ body {
 
 .section {
   padding: 94px 0px 94px 0px;
-  width: 1600px;
 }
 
 /* Header&footer */
 
 .header {
-  width: 1600px;
   padding: 24px 215px 24px 0px;
   border-bottom: 1px solid #ececec;
   background: var(--background);
@@ -144,7 +142,6 @@ body {
 }
 
 .footer {
-  width: 1600px;
   background-color: #2f303a;
   padding: 60px 0px 60px 0px;
 }
@@ -187,7 +184,6 @@ body {
   border-radius: 4px;
   padding: 10px 32px 10px 32px;
   margin: 0px 0px 0px 248px;
-  position: absolute;
   border: none;
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
