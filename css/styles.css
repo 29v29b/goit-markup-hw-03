@@ -41,7 +41,7 @@ body {
   width: 1230px;
   padding-left: 15px;
   padding-right: 15px;
-  margin: 0px 200px 0px 200px;
+  margin: 0px auto;
 }
 
 .list {
@@ -57,7 +57,7 @@ body {
 /* Header&footer */
 
 .header {
-  padding: 24px 215px 24px 0px;
+  padding: 24px 0px 24px 0px;
   border-bottom: 1px solid #ececec;
   background: var(--background);
 }
@@ -170,8 +170,8 @@ body {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  margin: 0 auto;
   margin-bottom: 30px;
-  margin-left: 452px;
 }
 .hero-btn {
   font-family: inherit;
@@ -185,7 +185,7 @@ body {
   color: #ffffff;
   border-radius: 4px;
   padding: 10px 32px 10px 32px;
-  margin-left: 700px;
+  margin: 0 auto;
   border: none;
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -203,7 +203,7 @@ body {
   text-align: left;
 }
 .features-list .item {
-  margin-right: auto;
+  margin: 0 auto;
   width: 270px;
 }
 .features-list h3 {
@@ -220,7 +220,7 @@ body {
   letter-spacing: 0.03em;
 }
 .section-title {
-  margin: 0px 0px 50px 0px;
+  margin: 0 auto;
   font-size: 36px;
   line-height: 1.1;
   text-align: center;
@@ -235,7 +235,7 @@ body {
 }
 
 .image-list .item:last-child {
-  margin-right: 0;
+  margin: 0 auto;
 }
 
 .team-section {
