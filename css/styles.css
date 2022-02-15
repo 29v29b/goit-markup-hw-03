@@ -221,6 +221,7 @@ body {
 }
 .section-title {
   margin: 0 auto;
+  margin-bottom: 50px;
   font-size: 36px;
   line-height: 1.1;
   text-align: center;
