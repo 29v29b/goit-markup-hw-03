@@ -196,6 +196,7 @@ body {
 }
 
 .features-section {
+  margin: 0 auto;
   padding-bottom: 0;
 }
 .features-list {
@@ -207,6 +208,7 @@ body {
   width: 270px;
 }
 .features-list h3 {
+  margin: 0 auto;
   margin-bottom: 10px;
   font-size: 14px;
   font-weight: 700;
@@ -231,6 +233,7 @@ body {
   display: flex;
 }
 .image-list .item {
+  margin: 0 auto;
   margin-right: 30px;
   flex-basis: calc(100% / 3);
 }
@@ -240,6 +243,7 @@ body {
 }
 
 .team-section {
+  margin: 0 auto;
   background-color: #f5f4fa;
 }
 
@@ -309,6 +313,7 @@ body {
   line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
+  margin: 0 auto;
 }
 
 .filter-btn:hover,
